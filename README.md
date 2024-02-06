@@ -20,9 +20,15 @@ This project practices the use of Polynomial Regression model with one feature�
 
 
 You can see the graph below:
-<img width="634" alt="Screenshot 2024-02-05 at 10 29 26 PM" src="https://github.com/SukprasarnRatt/PolynomialRegression/assets/74826344/4b410d0a-c470-4783-ba0a-99d7a55b320d">
 
-<img width="633" alt="Screenshot 2024-02-05 at 10 30 02 PM" src="https://github.com/SukprasarnRatt/PolynomialRegression/assets/74826344/32222c75-8078-49bb-ac41-6fbfe8a60357">
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <img src="https://github.com/SukprasarnRatt/PolynomialRegression/assets/74826344/4b410d0a-c470-4783-ba0a-99d7a55b320d" alt="Graph 1" width="400"/>
+  </div>
+  <div style="margin-left: 10px;">
+    <img src="https://github.com/SukprasarnRatt/PolynomialRegression/assets/74826344/32222c75-8078-49bb-ac41-6fbfe8a60357" alt="Graph 2" width="400"/>
+  </div>
+</div>
 
 
 
